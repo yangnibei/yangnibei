@@ -56,7 +56,7 @@ Compare one-day-ahead rental forecasts with a simple seasonal baseline.
 
 | Project | Business question | Analytical focus |
 | :--- | :--- | :--- |
-| **[04 · Campaign Targeting](https://github.com/yangnibei/campaign-targeting)** | Can a pre-contact score prioritise a limited call budget? | Chronological holdout, logistic regression, precision and lift |
+| **[04 · Campaign Targeting](https://github.com/yangnibei/campaign-targeting)** | Can a pre-contact score prioritise a limited call budget? | Last-block holdout, logistic regression, precision and lift |
 | **[05 · Shopping Conversion](https://github.com/yangnibei/shopping-conversion)** | Which session segments show conversion gaps worth investigating? | Wilson confidence intervals, visitor and traffic segmentation |
 | **[06 · A/B Testing Lab](https://github.com/yangnibei/ab-testing-lab)** | Would a simulated checkout experiment justify a rollout? | Randomised simulation, sample-ratio check, confidence interval, power planning · **Synthetic** |
 
@@ -79,4 +79,3 @@ Every project includes an English brief, reproducible Python code, a generated v
 - **Transparent scope:** educational portfolio work developed with AI assistance. No invented clients, job titles, commercial results or production-deployment claims.
 
 <sub>Yang Nibei · Business Analytics Portfolio · Built around questions, evidence and decisions.</sub>
-
