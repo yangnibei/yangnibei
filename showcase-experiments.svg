@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="380" viewBox="0 0 600 380" role="img" aria-labelledby="title desc">
+<title id="title">A/B Testing Lab</title><desc id="desc">Synthetic observed absolute lift is 0.7506 percentage points, with 95% confidence interval from 0.1513 to 1.3499 percentage points. These results are simulated, not measured business impact.</desc>
+<rect x="1" y="1" width="598" height="378" rx="16" fill="#f7fafc" stroke="#d6e2e9"/>
+<rect x="1" y="1" width="7" height="378" rx="3" fill="#087f8c"/>
+<g font-family="Arial,Helvetica,sans-serif">
+<text x="30" y="34" fill="#52697b" font-size="13" letter-spacing="1.6">04 / EXPERIMENT DESIGN · SYNTHETIC</text>
+<text x="30" y="73" fill="#10283f" font-size="27" font-weight="700">A/B Testing Lab</text>
+<text x="30" y="132" fill="#087f8c" font-size="43" font-weight="700">+0.75 pp</text>
+<text x="30" y="161" fill="#445d70" font-size="17">simulated conversion lift, with uncertainty shown</text>
+<text x="30" y="201" font-size="14" fill="#52697b">Absolute lift · percentage points · 95% confidence interval</text>
+<line x1="54" y1="249" x2="554" y2="249" stroke="#d6e2e9"/>
+<line x1="84" y1="211" x2="84" y2="279" stroke="#94a3b8" stroke-dasharray="5 5"/>
+<line x1="129.4" y1="249" x2="489" y2="249" stroke="#087f8c" stroke-width="4"/>
+<path d="M129.4 239V259M489 239V259" fill="none" stroke="#087f8c" stroke-width="2"/>
+<circle cx="309.2" cy="249" r="7" fill="#087f8c"/>
+<text x="84" y="300" text-anchor="middle" font-size="14" fill="#52697b">0</text>
+<text x="129.4" y="229" text-anchor="middle" font-size="14" fill="#52697b">+0.15</text>
+<text x="489" y="229" text-anchor="middle" font-size="14" fill="#52697b">+1.35</text>
+<text x="309.2" y="300" text-anchor="middle" font-size="14" fill="#087f8c">+0.75 pp</text>
+<line x1="30" y1="328" x2="570" y2="328" stroke="#d6e2e9"/>
+<text x="30" y="355" fill="#52697b" font-size="14">Simulation · fixed-horizon inference</text>
+<text x="570" y="355" text-anchor="end" fill="#087f8c" font-size="16" font-weight="700">Explore →</text>
+</g></svg>

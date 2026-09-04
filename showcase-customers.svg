@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="380" viewBox="0 0 600 380" role="img" aria-labelledby="title desc">
+<title id="title">Customer Segmentation</title><desc id="desc">Descriptive RFM analysis of identified customers. The highest-value 20% account for 74.7% of positive purchase value. The curve shows cumulative customer and purchase-value shares.</desc>
+<rect x="1" y="1" width="598" height="378" rx="16" fill="#f7fafc" stroke="#d6e2e9"/>
+<rect x="1" y="1" width="7" height="378" rx="3" fill="#087f8c"/>
+<g font-family="Arial,Helvetica,sans-serif">
+<text x="30" y="34" fill="#52697b" font-size="13" letter-spacing="1.6">01 / CUSTOMER INSIGHT</text>
+<text x="30" y="73" fill="#10283f" font-size="27" font-weight="700">Customer Segmentation</text>
+<text x="30" y="132" fill="#087f8c" font-size="43" font-weight="700">74.7%</text>
+<text x="30" y="161" fill="#445d70" font-size="17">of purchase value from the top 20% of customers</text>
+<path d="M48 189V294H548" fill="none" stroke="#b1c3ce"/><path d="M48 294L548 189" stroke="#b1c3ce" stroke-dasharray="5 5"/>
+<polygon points="48,294 48.0,294.0 98.0,229.5 148.0,215.6 198.1,207.0 248.1,201.2 298.0,197.2 348.0,194.2 398.0,192.1 448.1,190.6 498.1,189.5 548.0,189.0 548,294" fill="#def2f1"/>
+<polyline points="48.0,294.0 98.0,229.5 148.0,215.6 198.1,207.0 248.1,201.2 298.0,197.2 348.0,194.2 398.0,192.1 448.1,190.6 498.1,189.5 548.0,189.0" fill="none" stroke="#087f8c" stroke-width="3"/>
+<path d="M148 294V215.6" stroke="#10283f" stroke-dasharray="4 4"/><circle cx="148" cy="215.6" r="5" fill="#10283f"/>
+<text x="165" y="235" font-size="14" fill="#10283f">20% of customers</text>
+<text x="48" y="315" font-size="13" fill="#52697b">Highest-value customers first</text><text x="548" y="315" text-anchor="end" font-size="13" fill="#52697b">100%</text>
+<line x1="30" y1="328" x2="570" y2="328" stroke="#d6e2e9"/>
+<text x="30" y="355" fill="#52697b" font-size="14">4,338 customers · positive purchases</text>
+<text x="570" y="355" text-anchor="end" fill="#087f8c" font-size="16" font-weight="700">Explore →</text>
+</g></svg>

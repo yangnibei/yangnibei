@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="380" viewBox="0 0 600 380" role="img" aria-labelledby="title desc">
+<title id="title">Campaign Targeting</title><desc id="desc">Observed response ranking, not causal uplift. Top-20% precision is 60.7%, or 1.92 times the held-out population rate. Decile checkpoints show lift as the contact budget expands.</desc>
+<rect x="1" y="1" width="598" height="378" rx="16" fill="#f7fafc" stroke="#d6e2e9"/>
+<rect x="1" y="1" width="7" height="378" rx="3" fill="#087f8c"/>
+<g font-family="Arial,Helvetica,sans-serif">
+<text x="30" y="34" fill="#52697b" font-size="13" letter-spacing="1.6">02 / MARKETING DECISIONS</text>
+<text x="30" y="73" fill="#10283f" font-size="27" font-weight="700">Campaign Targeting</text>
+<text x="30" y="132" fill="#087f8c" font-size="43" font-weight="700">1.92× lift</text>
+<text x="30" y="161" fill="#445d70" font-size="17">at a 20% contact budget on held-out records</text>
+<path d="M48 186V292H548" fill="none" stroke="#b1c3ce"/><line x1="48" y1="292" x2="548" y2="292" stroke="#8c9eab" stroke-dasharray="5 5"/>
+<polyline points="48.0,194.6 103.6,221.1 159.1,239.3 214.7,247.9 270.2,256.0 325.8,263.7 381.3,272.6 436.9,280.7 492.4,287.1 548.0,292.0" fill="none" stroke="#087f8c" stroke-width="3"/>
+<circle cx="103.6" cy="221.1" r="5" fill="#10283f"/><text x="123" y="211" fill="#10283f" font-size="14">60.7% observed response</text>
+<text x="548" y="280" text-anchor="end" fill="#52697b" font-size="13">1× population average</text>
+<text x="48" y="315" fill="#52697b" font-size="13">10% contact budget</text><text x="548" y="315" text-anchor="end" fill="#52697b" font-size="13">100%</text>
+<line x1="30" y1="328" x2="570" y2="328" stroke="#d6e2e9"/>
+<text x="30" y="355" fill="#52697b" font-size="14">Last-block holdout · response ranking</text>
+<text x="570" y="355" text-anchor="end" fill="#087f8c" font-size="16" font-weight="700">Explore →</text>
+</g></svg>
