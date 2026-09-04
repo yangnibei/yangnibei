@@ -1,4 +1,4 @@
-![Yang Nibei — Business Analytics Portfolio](banner.svg)
+![Yang Nibei — Business Analytics Portfolio](banner.svg?v=2)
 
 I use data to explore how businesses understand customers, evaluate experiments and plan operations.
 
