@@ -37,14 +37,14 @@ Four starting points across customer insight, marketing, operations and experime
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="600" valign="top">
 <sub>01 / MATHEMATICS</sub>
 <h3>Mathematics for<br>Machine Learning</h3>
 <p><b>Imperial College London</b><br><sub>Specialization · 3 courses</sub></p>
 <p>Linear algebra, multivariate calculus<br>and principal component analysis.</p>
 <a href="https://coursera.org/verify/specialization/U3LC003TZVIU"><b>View credential ↗</b></a>
 </td>
-<td width="50%" valign="top">
+<td width="600" valign="top">
 <sub>02 / STATISTICS &amp; ANALYTICS</sub>
 <h3>Mathematical Foundations for<br>Data Science and Analytics</h3>
 <p><b>University of Pittsburgh</b><br><sub>Specialization · 3 courses</sub></p>
@@ -53,14 +53,14 @@ Four starting points across customer insight, marketing, operations and experime
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="600" valign="top">
 <sub>03 / AI ENGINEERING</sub>
 <h3>IBM Generative<br>AI Engineering</h3>
 <p><b>IBM</b><br><sub>Professional Certificate · 16 courses</sub></p>
 <p>Python, machine learning, transformers<br>and retrieval-augmented generation.</p>
 <a href="https://coursera.org/verify/professional-cert/VKERXJWIECVW"><b>View credential ↗</b></a>
 </td>
-<td width="50%" valign="top">
+<td width="600" valign="top">
 <sub>04 / ADDITIONAL MATHEMATICS</sub>
 <h3>Calculus<br>for Engineers</h3>
 <p><b>HKUST</b><br><sub>Course Certificate · 1 course</sub></p>
