@@ -33,7 +33,7 @@ Four starting points across customer insight, marketing, operations and experime
 
 ## Certificates & learning
 
-<img src="https://raw.githubusercontent.com/yangnibei/yangnibei/main/certificate-fan.svg" width="100%" alt="All 26 original certificates overlapping in a fan: 3 programme credentials and 23 course certificates." />
+<img src="https://raw.githubusercontent.com/yangnibei/yangnibei/main/certificate-scroll.svg" width="100%" alt="26 original certificates arranged side by side and scrolling automatically: 3 programme credentials and 23 course certificates." />
 
 Click a certificate title to expand the original certificate. Click its image to open the official verification page.
 
