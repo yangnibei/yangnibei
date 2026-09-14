@@ -4,7 +4,7 @@ I use data to explore how businesses understand customers, evaluate experiments 
 
 **Python · SQL · Statistical analysis · Forecasting · Decision modelling**
 
-[Explore selected projects](#selected-projects) · [Browse all 10](#all-projects) · [Methods & evidence](#methods--evidence)
+[Explore selected projects](#selected-projects) · [Browse all 10](#all-projects) · [Methods & evidence](#methods--evidence) · [Certificates](#certificates--learning)
 
 ## Selected projects
 
@@ -80,5 +80,72 @@ Every project includes a business brief, runnable Python code, two analytical pa
 - **Scope:** educational portfolio projects developed with AI assistance. Findings are presented with their assumptions and limitations.
 
 </details>
+
+## Certificates & learning
+
+Structured coursework supporting my interests in business analytics, quantitative methods and AI development. **3 programme credentials · 23 completed courses · September 2026.**
+
+| Programme | Provider | Coursework focus | Credential |
+| :--- | :--- | :--- | :--- |
+| **Mathematics for Machine Learning** | Imperial College London | Linear algebra, multivariate calculus and PCA · 3 courses | [Verify specialization](https://coursera.org/verify/specialization/U3LC003TZVIU) |
+| **Mathematical Foundations for Data Science and Analytics** | University of Pittsburgh | Statistics, probability and regression with Python · 3 courses | [Verify specialization](https://coursera.org/verify/specialization/IKCCTWC137DE) |
+| **IBM Generative AI Engineering** | IBM | Python, machine learning, transformers and RAG applications · 16 courses | [Verify professional certificate](https://coursera.org/verify/professional-cert/VKERXJWIECVW) |
+
+**Additional mathematics:** [Calculus for Engineers](https://coursera.org/verify/G7D6P815T1TV) — The Hong Kong University of Science and Technology.
+
+<details>
+<summary><b>Mathematics & statistics — 7 course certificates</b></summary>
+
+**Imperial College London · Mathematics for Machine Learning**
+
+- [Linear Algebra](https://coursera.org/verify/85T2P5S1UAFB)
+- [Multivariate Calculus](https://coursera.org/verify/3YB2MYE2RD9R)
+- [PCA](https://coursera.org/verify/KPLUSNBICH0R)
+
+**University of Pittsburgh · Mathematical Foundations for Data Science and Analytics**
+
+- [Linear Algebra and Regression Fundamentals for Data Science](https://coursera.org/verify/0W1QXP83NUOX)
+- [Statistics and Calculus Methods for Data Analysis](https://coursera.org/verify/XLZBZ4D9KNJ8)
+- [Probability Theory and Regression for Predictive Analytics](https://coursera.org/verify/468CEINT3GF4)
+
+**The Hong Kong University of Science and Technology**
+
+- [Calculus for Engineers](https://coursera.org/verify/G7D6P815T1TV)
+
+</details>
+
+<details>
+<summary><b>Python, machine learning & generative AI — 16 course certificates</b></summary>
+
+All courses below form part of the **IBM Generative AI Engineering Professional Certificate**.
+
+**Python & machine learning**
+
+- [Python for Data Science, AI & Development](https://coursera.org/verify/RWZVCW7TEOWU)
+- [Data Analysis with Python](https://coursera.org/verify/Q77ATJIZ19TO)
+- [Machine Learning with Python](https://coursera.org/verify/2OB8WR1EP7H0)
+- [Introduction to Deep Learning & Neural Networks with Keras](https://coursera.org/verify/38Q3T2RV2EC6)
+
+**AI foundations & application development**
+
+- [Introduction to Artificial Intelligence (AI)](https://coursera.org/verify/16GFCE8U0ERQ)
+- [Generative AI: Introduction and Applications](https://coursera.org/verify/SGSA525YSKM3)
+- [Generative AI: Prompt Engineering Basics](https://coursera.org/verify/3PV3I5M3U9DC)
+- [Developing AI Applications with Python and Flask](https://coursera.org/verify/MDLJOMK0QATX)
+- [Building Generative AI-Powered Applications with Python](https://coursera.org/verify/GSX7SY92IBJR)
+
+**Language models, fine-tuning & RAG**
+
+- [Generative AI and LLMs: Architecture and Data Preparation](https://coursera.org/verify/SL4057VXU4HW)
+- [Gen AI Foundational Models for NLP & Language Understanding](https://coursera.org/verify/GZQR9LDY7RQ0)
+- [Generative AI Language Modeling with Transformers](https://coursera.org/verify/HRQMTH9RHL1K)
+- [Generative AI Engineering and Fine-Tuning Transformers](https://coursera.org/verify/BSTSEFF4MQRC)
+- [Generative AI Advanced Fine-Tuning for LLMs](https://coursera.org/verify/ILPA2DCMCKT0)
+- [Fundamentals of AI Agents Using RAG and LangChain](https://coursera.org/verify/OF59K5HTXYDB)
+- [Project: Generative AI Applications with RAG and LangChain](https://coursera.org/verify/XPG5156O6B6F)
+
+</details>
+
+<sub>Issued through Coursera to Nibei Yang. Programme credentials include the component courses listed above; they are not additional courses. Each link opens the official certificate verification page.</sub>
 
 <sub>Yang Nibei · Business Analytics Portfolio</sub>
