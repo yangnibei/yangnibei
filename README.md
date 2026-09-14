@@ -35,59 +35,111 @@ Four starting points across customer insight, marketing, operations and experime
 
 <img src="https://raw.githubusercontent.com/yangnibei/yangnibei/main/learning-foundations.svg" width="100%" alt="Learning foundations: mathematics, statistics and AI. 3 programme credentials and 23 completed courses, September 2026." />
 
-<table width="100%">
-<tr>
-<td width="600" valign="top">
-<sub>01 / MATHEMATICS</sub>
-<h3>Mathematics for<br>Machine Learning</h3>
-<p><b>Imperial College London</b><br><sub>Specialization · 3 courses</sub></p>
-<p>Linear algebra, multivariate calculus<br>and principal component analysis.</p>
-<a href="https://coursera.org/verify/specialization/U3LC003TZVIU"><b>View credential ↗</b></a>
-</td>
-<td width="600" valign="top">
-<sub>02 / STATISTICS &amp; ANALYTICS</sub>
-<h3>Mathematical Foundations for<br>Data Science and Analytics</h3>
-<p><b>University of Pittsburgh</b><br><sub>Specialization · 3 courses</sub></p>
-<p>Statistics, probability and regression<br>with Python.</p>
-<a href="https://coursera.org/verify/specialization/IKCCTWC137DE"><b>View credential ↗</b></a>
-</td>
-</tr>
-<tr>
-<td width="600" valign="top">
-<sub>03 / AI ENGINEERING</sub>
-<h3>IBM Generative<br>AI Engineering</h3>
-<p><b>IBM</b><br><sub>Professional Certificate · 16 courses</sub></p>
-<p>Python, machine learning, transformers<br>and retrieval-augmented generation.</p>
-<a href="https://coursera.org/verify/professional-cert/VKERXJWIECVW"><b>View credential ↗</b></a>
-</td>
-<td width="600" valign="top">
-<sub>04 / ADDITIONAL MATHEMATICS</sub>
-<h3>Calculus<br>for Engineers</h3>
-<p><b>HKUST</b><br><sub>Course Certificate · 1 course</sub></p>
-<p>Further coursework in calculus<br>for engineering applications.</p>
-<a href="https://coursera.org/verify/G7D6P815T1TV"><b>View credential ↗</b></a>
-</td>
-</tr>
-</table>
+Click a certificate title to expand the original certificate. Click its image to open the official verification page.
+
+<details>
+<summary><b>Mathematics for Machine Learning</b> — Imperial College London · Specialization · 3 courses</summary>
+
+<a href="https://coursera.org/verify/specialization/U3LC003TZVIU"><img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~U3LC003TZVIU/CERTIFICATE_LANDING_PAGE~U3LC003TZVIU.jpeg" width="100%" alt="Certificate awarded to Nibei Yang: Mathematics for Machine Learning" /></a>
+
+[Verify on Coursera ↗](https://coursera.org/verify/specialization/U3LC003TZVIU)
+
+</details>
+
+<details>
+<summary><b>Mathematical Foundations for Data Science and Analytics</b> — University of Pittsburgh · Specialization · 3 courses</summary>
+
+<a href="https://coursera.org/verify/specialization/IKCCTWC137DE"><img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~IKCCTWC137DE/CERTIFICATE_LANDING_PAGE~IKCCTWC137DE.jpeg" width="100%" alt="Certificate awarded to Nibei Yang: Mathematical Foundations for Data Science and Analytics" /></a>
+
+[Verify on Coursera ↗](https://coursera.org/verify/specialization/IKCCTWC137DE)
+
+</details>
+
+<details>
+<summary><b>IBM Generative AI Engineering</b> — IBM · Professional Certificate · 16 courses</summary>
+
+<a href="https://coursera.org/verify/professional-cert/VKERXJWIECVW"><img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~VKERXJWIECVW/CERTIFICATE_LANDING_PAGE~VKERXJWIECVW.jpeg" width="100%" alt="Certificate awarded to Nibei Yang: IBM Generative AI Engineering" /></a>
+
+[Verify on Coursera ↗](https://coursera.org/verify/professional-cert/VKERXJWIECVW)
+
+</details>
+
+<details>
+<summary><b>Calculus for Engineers</b> — HKUST · Course Certificate</summary>
+
+<a href="https://coursera.org/verify/G7D6P815T1TV"><img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~G7D6P815T1TV/CERTIFICATE_LANDING_PAGE~G7D6P815T1TV.jpeg" width="100%" alt="Certificate awarded to Nibei Yang: Calculus for Engineers" /></a>
+
+[Verify on Coursera ↗](https://coursera.org/verify/G7D6P815T1TV)
+
+</details>
 
 <details>
 <summary><b>Mathematics & statistics — 7 course certificates</b></summary>
 
 **Imperial College London · Mathematics for Machine Learning**
 
-- [Linear Algebra](https://coursera.org/verify/85T2P5S1UAFB)
-- [Multivariate Calculus](https://coursera.org/verify/3YB2MYE2RD9R)
-- [PCA](https://coursera.org/verify/KPLUSNBICH0R)
+<details>
+<summary><b>Linear Algebra</b></summary>
+
+<a href="https://coursera.org/verify/85T2P5S1UAFB"><img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~85T2P5S1UAFB/CERTIFICATE_LANDING_PAGE~85T2P5S1UAFB.jpeg" width="100%" alt="Certificate awarded to Nibei Yang: Linear Algebra" /></a>
+
+[Verify on Coursera ↗](https://coursera.org/verify/85T2P5S1UAFB)
+
+</details>
+<details>
+<summary><b>Multivariate Calculus</b></summary>
+
+<a href="https://coursera.org/verify/3YB2MYE2RD9R"><img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~3YB2MYE2RD9R/CERTIFICATE_LANDING_PAGE~3YB2MYE2RD9R.jpeg" width="100%" alt="Certificate awarded to Nibei Yang: Multivariate Calculus" /></a>
+
+[Verify on Coursera ↗](https://coursera.org/verify/3YB2MYE2RD9R)
+
+</details>
+<details>
+<summary><b>PCA</b></summary>
+
+<a href="https://coursera.org/verify/KPLUSNBICH0R"><img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~KPLUSNBICH0R/CERTIFICATE_LANDING_PAGE~KPLUSNBICH0R.jpeg" width="100%" alt="Certificate awarded to Nibei Yang: PCA" /></a>
+
+[Verify on Coursera ↗](https://coursera.org/verify/KPLUSNBICH0R)
+
+</details>
 
 **University of Pittsburgh · Mathematical Foundations for Data Science and Analytics**
 
-- [Linear Algebra and Regression Fundamentals for Data Science](https://coursera.org/verify/0W1QXP83NUOX)
-- [Statistics and Calculus Methods for Data Analysis](https://coursera.org/verify/XLZBZ4D9KNJ8)
-- [Probability Theory and Regression for Predictive Analytics](https://coursera.org/verify/468CEINT3GF4)
+<details>
+<summary><b>Linear Algebra and Regression Fundamentals for Data Science</b></summary>
+
+<a href="https://coursera.org/verify/0W1QXP83NUOX"><img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~0W1QXP83NUOX/CERTIFICATE_LANDING_PAGE~0W1QXP83NUOX.jpeg" width="100%" alt="Certificate awarded to Nibei Yang: Linear Algebra and Regression Fundamentals for Data Science" /></a>
+
+[Verify on Coursera ↗](https://coursera.org/verify/0W1QXP83NUOX)
+
+</details>
+<details>
+<summary><b>Statistics and Calculus Methods for Data Analysis</b></summary>
+
+<a href="https://coursera.org/verify/XLZBZ4D9KNJ8"><img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~XLZBZ4D9KNJ8/CERTIFICATE_LANDING_PAGE~XLZBZ4D9KNJ8.jpeg" width="100%" alt="Certificate awarded to Nibei Yang: Statistics and Calculus Methods for Data Analysis" /></a>
+
+[Verify on Coursera ↗](https://coursera.org/verify/XLZBZ4D9KNJ8)
+
+</details>
+<details>
+<summary><b>Probability Theory and Regression for Predictive Analytics</b></summary>
+
+<a href="https://coursera.org/verify/468CEINT3GF4"><img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~468CEINT3GF4/CERTIFICATE_LANDING_PAGE~468CEINT3GF4.jpeg" width="100%" alt="Certificate awarded to Nibei Yang: Probability Theory and Regression for Predictive Analytics" /></a>
+
+[Verify on Coursera ↗](https://coursera.org/verify/468CEINT3GF4)
+
+</details>
 
 **The Hong Kong University of Science and Technology**
 
-- [Calculus for Engineers](https://coursera.org/verify/G7D6P815T1TV)
+<details>
+<summary><b>Calculus for Engineers</b></summary>
+
+<a href="https://coursera.org/verify/G7D6P815T1TV"><img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~G7D6P815T1TV/CERTIFICATE_LANDING_PAGE~G7D6P815T1TV.jpeg" width="100%" alt="Certificate awarded to Nibei Yang: Calculus for Engineers" /></a>
+
+[Verify on Coursera ↗](https://coursera.org/verify/G7D6P815T1TV)
+
+</details>
 
 </details>
 
@@ -98,32 +150,144 @@ All courses below form part of the **IBM Generative AI Engineering Professional 
 
 **Python & machine learning**
 
-- [Python for Data Science, AI & Development](https://coursera.org/verify/RWZVCW7TEOWU)
-- [Data Analysis with Python](https://coursera.org/verify/Q77ATJIZ19TO)
-- [Machine Learning with Python](https://coursera.org/verify/2OB8WR1EP7H0)
-- [Introduction to Deep Learning & Neural Networks with Keras](https://coursera.org/verify/38Q3T2RV2EC6)
+<details>
+<summary><b>Python for Data Science, AI &amp; Development</b></summary>
 
-**AI foundations & application development**
+<a href="https://coursera.org/verify/RWZVCW7TEOWU"><img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~RWZVCW7TEOWU/CERTIFICATE_LANDING_PAGE~RWZVCW7TEOWU.jpeg" width="100%" alt="Certificate awarded to Nibei Yang: Python for Data Science, AI &amp; Development" /></a>
 
-- [Introduction to Artificial Intelligence (AI)](https://coursera.org/verify/16GFCE8U0ERQ)
-- [Generative AI: Introduction and Applications](https://coursera.org/verify/SGSA525YSKM3)
-- [Generative AI: Prompt Engineering Basics](https://coursera.org/verify/3PV3I5M3U9DC)
-- [Developing AI Applications with Python and Flask](https://coursera.org/verify/MDLJOMK0QATX)
-- [Building Generative AI-Powered Applications with Python](https://coursera.org/verify/GSX7SY92IBJR)
+[Verify on Coursera ↗](https://coursera.org/verify/RWZVCW7TEOWU)
 
-**Language models, fine-tuning & RAG**
+</details>
+<details>
+<summary><b>Data Analysis with Python</b></summary>
 
-- [Generative AI and LLMs: Architecture and Data Preparation](https://coursera.org/verify/SL4057VXU4HW)
-- [Gen AI Foundational Models for NLP & Language Understanding](https://coursera.org/verify/GZQR9LDY7RQ0)
-- [Generative AI Language Modeling with Transformers](https://coursera.org/verify/HRQMTH9RHL1K)
-- [Generative AI Engineering and Fine-Tuning Transformers](https://coursera.org/verify/BSTSEFF4MQRC)
-- [Generative AI Advanced Fine-Tuning for LLMs](https://coursera.org/verify/ILPA2DCMCKT0)
-- [Fundamentals of AI Agents Using RAG and LangChain](https://coursera.org/verify/OF59K5HTXYDB)
-- [Project: Generative AI Applications with RAG and LangChain](https://coursera.org/verify/XPG5156O6B6F)
+<a href="https://coursera.org/verify/Q77ATJIZ19TO"><img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~Q77ATJIZ19TO/CERTIFICATE_LANDING_PAGE~Q77ATJIZ19TO.jpeg" width="100%" alt="Certificate awarded to Nibei Yang: Data Analysis with Python" /></a>
+
+[Verify on Coursera ↗](https://coursera.org/verify/Q77ATJIZ19TO)
+
+</details>
+<details>
+<summary><b>Machine Learning with Python</b></summary>
+
+<a href="https://coursera.org/verify/2OB8WR1EP7H0"><img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~2OB8WR1EP7H0/CERTIFICATE_LANDING_PAGE~2OB8WR1EP7H0.jpeg" width="100%" alt="Certificate awarded to Nibei Yang: Machine Learning with Python" /></a>
+
+[Verify on Coursera ↗](https://coursera.org/verify/2OB8WR1EP7H0)
+
+</details>
+<details>
+<summary><b>Introduction to Deep Learning &amp; Neural Networks with Keras</b></summary>
+
+<a href="https://coursera.org/verify/38Q3T2RV2EC6"><img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~38Q3T2RV2EC6/CERTIFICATE_LANDING_PAGE~38Q3T2RV2EC6.jpeg" width="100%" alt="Certificate awarded to Nibei Yang: Introduction to Deep Learning &amp; Neural Networks with Keras" /></a>
+
+[Verify on Coursera ↗](https://coursera.org/verify/38Q3T2RV2EC6)
 
 </details>
 
-<sub>Issued through Coursera to Nibei Yang. Programme credentials include the component courses listed above; they are not additional courses. Each link opens the official certificate verification page.</sub>
+**AI foundations & application development**
+
+<details>
+<summary><b>Introduction to Artificial Intelligence (AI)</b></summary>
+
+<a href="https://coursera.org/verify/16GFCE8U0ERQ"><img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~16GFCE8U0ERQ/CERTIFICATE_LANDING_PAGE~16GFCE8U0ERQ.jpeg" width="100%" alt="Certificate awarded to Nibei Yang: Introduction to Artificial Intelligence (AI)" /></a>
+
+[Verify on Coursera ↗](https://coursera.org/verify/16GFCE8U0ERQ)
+
+</details>
+<details>
+<summary><b>Generative AI: Introduction and Applications</b></summary>
+
+<a href="https://coursera.org/verify/SGSA525YSKM3"><img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~SGSA525YSKM3/CERTIFICATE_LANDING_PAGE~SGSA525YSKM3.jpeg" width="100%" alt="Certificate awarded to Nibei Yang: Generative AI: Introduction and Applications" /></a>
+
+[Verify on Coursera ↗](https://coursera.org/verify/SGSA525YSKM3)
+
+</details>
+<details>
+<summary><b>Generative AI: Prompt Engineering Basics</b></summary>
+
+<a href="https://coursera.org/verify/3PV3I5M3U9DC"><img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~3PV3I5M3U9DC/CERTIFICATE_LANDING_PAGE~3PV3I5M3U9DC.jpeg" width="100%" alt="Certificate awarded to Nibei Yang: Generative AI: Prompt Engineering Basics" /></a>
+
+[Verify on Coursera ↗](https://coursera.org/verify/3PV3I5M3U9DC)
+
+</details>
+<details>
+<summary><b>Developing AI Applications with Python and Flask</b></summary>
+
+<a href="https://coursera.org/verify/MDLJOMK0QATX"><img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~MDLJOMK0QATX/CERTIFICATE_LANDING_PAGE~MDLJOMK0QATX.jpeg" width="100%" alt="Certificate awarded to Nibei Yang: Developing AI Applications with Python and Flask" /></a>
+
+[Verify on Coursera ↗](https://coursera.org/verify/MDLJOMK0QATX)
+
+</details>
+<details>
+<summary><b>Building Generative AI-Powered Applications with Python</b></summary>
+
+<a href="https://coursera.org/verify/GSX7SY92IBJR"><img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~GSX7SY92IBJR/CERTIFICATE_LANDING_PAGE~GSX7SY92IBJR.jpeg" width="100%" alt="Certificate awarded to Nibei Yang: Building Generative AI-Powered Applications with Python" /></a>
+
+[Verify on Coursera ↗](https://coursera.org/verify/GSX7SY92IBJR)
+
+</details>
+
+**Language models, fine-tuning & RAG**
+
+<details>
+<summary><b>Generative AI and LLMs: Architecture and Data Preparation</b></summary>
+
+<a href="https://coursera.org/verify/SL4057VXU4HW"><img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~SL4057VXU4HW/CERTIFICATE_LANDING_PAGE~SL4057VXU4HW.jpeg" width="100%" alt="Certificate awarded to Nibei Yang: Generative AI and LLMs: Architecture and Data Preparation" /></a>
+
+[Verify on Coursera ↗](https://coursera.org/verify/SL4057VXU4HW)
+
+</details>
+<details>
+<summary><b>Gen AI Foundational Models for NLP &amp; Language Understanding</b></summary>
+
+<a href="https://coursera.org/verify/GZQR9LDY7RQ0"><img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~GZQR9LDY7RQ0/CERTIFICATE_LANDING_PAGE~GZQR9LDY7RQ0.jpeg" width="100%" alt="Certificate awarded to Nibei Yang: Gen AI Foundational Models for NLP &amp; Language Understanding" /></a>
+
+[Verify on Coursera ↗](https://coursera.org/verify/GZQR9LDY7RQ0)
+
+</details>
+<details>
+<summary><b>Generative AI Language Modeling with Transformers</b></summary>
+
+<a href="https://coursera.org/verify/HRQMTH9RHL1K"><img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~HRQMTH9RHL1K/CERTIFICATE_LANDING_PAGE~HRQMTH9RHL1K.jpeg" width="100%" alt="Certificate awarded to Nibei Yang: Generative AI Language Modeling with Transformers" /></a>
+
+[Verify on Coursera ↗](https://coursera.org/verify/HRQMTH9RHL1K)
+
+</details>
+<details>
+<summary><b>Generative AI Engineering and Fine-Tuning Transformers</b></summary>
+
+<a href="https://coursera.org/verify/BSTSEFF4MQRC"><img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~BSTSEFF4MQRC/CERTIFICATE_LANDING_PAGE~BSTSEFF4MQRC.jpeg" width="100%" alt="Certificate awarded to Nibei Yang: Generative AI Engineering and Fine-Tuning Transformers" /></a>
+
+[Verify on Coursera ↗](https://coursera.org/verify/BSTSEFF4MQRC)
+
+</details>
+<details>
+<summary><b>Generative AI Advanced Fine-Tuning for LLMs</b></summary>
+
+<a href="https://coursera.org/verify/ILPA2DCMCKT0"><img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~ILPA2DCMCKT0/CERTIFICATE_LANDING_PAGE~ILPA2DCMCKT0.jpeg" width="100%" alt="Certificate awarded to Nibei Yang: Generative AI Advanced Fine-Tuning for LLMs" /></a>
+
+[Verify on Coursera ↗](https://coursera.org/verify/ILPA2DCMCKT0)
+
+</details>
+<details>
+<summary><b>Fundamentals of AI Agents Using RAG and LangChain</b></summary>
+
+<a href="https://coursera.org/verify/OF59K5HTXYDB"><img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~OF59K5HTXYDB/CERTIFICATE_LANDING_PAGE~OF59K5HTXYDB.jpeg" width="100%" alt="Certificate awarded to Nibei Yang: Fundamentals of AI Agents Using RAG and LangChain" /></a>
+
+[Verify on Coursera ↗](https://coursera.org/verify/OF59K5HTXYDB)
+
+</details>
+<details>
+<summary><b>Project: Generative AI Applications with RAG and LangChain</b></summary>
+
+<a href="https://coursera.org/verify/XPG5156O6B6F"><img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~XPG5156O6B6F/CERTIFICATE_LANDING_PAGE~XPG5156O6B6F.jpeg" width="100%" alt="Certificate awarded to Nibei Yang: Project: Generative AI Applications with RAG and LangChain" /></a>
+
+[Verify on Coursera ↗](https://coursera.org/verify/XPG5156O6B6F)
+
+</details>
+
+</details>
+
+<sub>Issued through Coursera to Nibei Yang. Programme credentials include the component courses listed above; they are not additional courses. Certificate images are provided by Coursera; verification links open the official records.</sub>
 
 
 ## All projects
