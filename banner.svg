@@ -1,20 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
 <title id="title">Yang Nibei — Business Analytics Portfolio</title>
 <desc id="desc">Ten projects, twenty analytical panels, eight public-data case studies and two simulation labs. Customers, experiments and operational decisions.</desc>
-<rect width="1200" height="320" rx="18" fill="#10283f"/>
-<path d="M900 0H1200V320H1080Z" fill="#163b50"/>
-<path d="M1060 0H1200V320H1170Z" fill="#1c4b5c"/>
+<rect width="1200" height="320" rx="18" fill="#f6f3fb"/>
+<path d="M900 0H1200V320H1080Z" fill="#eee7f7"/>
+<path d="M1060 0H1200V320H1170Z" fill="#e2d6f1"/>
 <g font-family="Arial,Helvetica,sans-serif">
-<text x="48" y="49" fill="#70d5cb" font-size="16" letter-spacing="3">BUSINESS ANALYTICS / SELECTED WORK</text>
-<text x="46" y="122" fill="#ffffff" font-size="62" font-weight="700">Yang Nibei</text>
-<text x="48" y="165" fill="#d2e4eb" font-size="24">Customer insight. Experiment design. Better decisions.</text>
-<line x1="48" y1="205" x2="1152" y2="205" stroke="#3a586e"/>
-<text x="48" y="257" fill="#70d5cb" font-size="34" font-weight="700">10</text>
-<text x="103" y="255" fill="#ffffff" font-size="18">projects</text>
-<text x="320" y="257" fill="#70d5cb" font-size="34" font-weight="700">20</text>
-<text x="379" y="255" fill="#ffffff" font-size="18">chart panels</text>
-<text x="617" y="257" fill="#70d5cb" font-size="34" font-weight="700">08</text>
-<text x="677" y="255" fill="#ffffff" font-size="18">public-data studies</text>
-<text x="945" y="257" fill="#70d5cb" font-size="34" font-weight="700">02</text>
-<text x="1005" y="255" fill="#ffffff" font-size="18">decision labs</text>
+<text x="48" y="49" fill="#8764b1" font-size="16" letter-spacing="3">BUSINESS ANALYTICS / SELECTED WORK</text>
+<text x="46" y="122" fill="#343044" font-size="62" font-weight="700">Yang Nibei</text>
+<text x="48" y="165" fill="#676175" font-size="24">Customer insight. Experiment design. Better decisions.</text>
+<line x1="48" y1="205" x2="1152" y2="205" stroke="#d9cde8"/>
+<text x="48" y="257" fill="#8764b1" font-size="34" font-weight="700">10</text>
+<text x="103" y="255" fill="#343044" font-size="18">projects</text>
+<text x="320" y="257" fill="#8764b1" font-size="34" font-weight="700">20</text>
+<text x="379" y="255" fill="#343044" font-size="18">chart panels</text>
+<text x="617" y="257" fill="#8764b1" font-size="34" font-weight="700">08</text>
+<text x="677" y="255" fill="#343044" font-size="18">public-data studies</text>
+<text x="945" y="257" fill="#8764b1" font-size="34" font-weight="700">02</text>
+<text x="1005" y="255" fill="#343044" font-size="18">decision labs</text>
 </g></svg>
