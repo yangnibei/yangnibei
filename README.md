@@ -31,67 +31,44 @@ Four starting points across customer insight, marketing, operations and experime
 
 <sub>Card figures summarise the reproducible results in each linked repository. Public-data findings are historical and observational; the experiment card is explicitly synthetic.</sub>
 
-## All projects
-
-### Customer & growth
-
-| Case study | Decision explored |
-| :--- | :--- |
-| **[01 · Retail Performance](https://github.com/yangnibei/retail-performance)** | Reconcile gross sales, negative adjustments and net sales across time and markets. |
-| **[02 · Customer Segmentation · RFM](https://github.com/yangnibei/customer-segmentation-rfm)** | Identify customer groups and examine how purchase value is concentrated. |
-| **[03 · Cohort Retention](https://github.com/yangnibei/cohort-retention)** | Compare repeat purchasing at equal cohort maturity, with eligible customer bases. |
-| **[09 · Wholesale Customer Segments](https://github.com/yangnibei/wholesale-customer-segments)** | Explore B2B spending profiles using clustering and indexed category comparisons. |
-
-### Marketing & experiments
-
-| Case study | Decision explored |
-| :--- | :--- |
-| **[04 · Campaign Targeting](https://github.com/yangnibei/campaign-targeting)** | Evaluate response ranking as the contact budget expands, using a last-block holdout. |
-| **[05 · Shopping Conversion](https://github.com/yangnibei/shopping-conversion)** | Investigate visitor and traffic conversion differences with confidence intervals. |
-| **[06 · A/B Testing Lab](https://github.com/yangnibei/ab-testing-lab)** | Interpret effect uncertainty and plan sample size. **Synthetic experiment.** |
-
-### Operations & decisions
-
-| Case study | Decision explored |
-| :--- | :--- |
-| **[07 · Demand Forecasting](https://github.com/yangnibei/demand-forecasting)** | Compare rolling next-day predictions and error patterns with a seasonal baseline. |
-| **[08 · Inventory Prioritisation](https://github.com/yangnibei/inventory-prioritisation)** | Connect ABC–XYZ planning groups with volume concentration and forecast errors. |
-| **[10 · Pricing Scenario Lab](https://github.com/yangnibei/pricing-scenario-lab)** | Explore profit sensitivity and grid-best prices. **Assumption-driven simulation.** |
-
-## Methods & evidence
-
-**Business question → analysis → visual evidence → decision boundaries**
-
-Every project includes a business brief, runnable Python code, two analytical panels, a results report, machine-readable metrics and source attribution.
-
-| Area | Demonstrated methods |
-| :--- | :--- |
-| Data preparation | Python, pandas, SQL aggregation, input checks and revenue reconciliation |
-| Customer & marketing analysis | RFM, cohort retention, logistic regression, precision and lift |
-| Statistical reasoning | Confidence intervals, randomisation checks and sample-size planning |
-| Operational decisions | Forecast baselines, chronological evaluation, ABC–XYZ and scenario analysis |
-
-<details>
-<summary><b>Reproducibility, data sources and scope</b></summary>
-
-- **8 public-data case studies:** historical UCI datasets with source attribution and archive hashes. Three retail studies use the same source for distinct questions.
-- **2 decision labs:** A/B testing uses simulated visitors; pricing uses assumed demand and costs. Neither represents measured commercial impact.
-- **Reproduce a result:** open a project, follow its README, then inspect `REPORT.md`, `results.json` and `analysis.py`.
-- **Scope:** educational portfolio projects developed with AI assistance. Findings are presented with their assumptions and limitations.
-
-</details>
-
 ## Certificates & learning
 
-Structured coursework supporting my interests in business analytics, quantitative methods and AI development. **3 programme credentials · 23 completed courses · September 2026.**
+<img src="https://raw.githubusercontent.com/yangnibei/yangnibei/main/learning-foundations.svg" width="100%" alt="Learning foundations: mathematics, statistics and AI. 3 programme credentials and 23 completed courses, September 2026." />
 
-| Programme | Provider | Coursework focus | Credential |
-| :--- | :--- | :--- | :--- |
-| **Mathematics for Machine Learning** | Imperial College London | Linear algebra, multivariate calculus and PCA · 3 courses | [Verify specialization](https://coursera.org/verify/specialization/U3LC003TZVIU) |
-| **Mathematical Foundations for Data Science and Analytics** | University of Pittsburgh | Statistics, probability and regression with Python · 3 courses | [Verify specialization](https://coursera.org/verify/specialization/IKCCTWC137DE) |
-| **IBM Generative AI Engineering** | IBM | Python, machine learning, transformers and RAG applications · 16 courses | [Verify professional certificate](https://coursera.org/verify/professional-cert/VKERXJWIECVW) |
-
-**Additional mathematics:** [Calculus for Engineers](https://coursera.org/verify/G7D6P815T1TV) — The Hong Kong University of Science and Technology.
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<sub>01 / MATHEMATICS</sub>
+<h3>Mathematics for<br>Machine Learning</h3>
+<p><b>Imperial College London</b><br><sub>Specialization · 3 courses</sub></p>
+<p>Linear algebra, multivariate calculus<br>and principal component analysis.</p>
+<a href="https://coursera.org/verify/specialization/U3LC003TZVIU"><b>View credential ↗</b></a>
+</td>
+<td width="50%" valign="top">
+<sub>02 / STATISTICS &amp; ANALYTICS</sub>
+<h3>Mathematical Foundations for<br>Data Science and Analytics</h3>
+<p><b>University of Pittsburgh</b><br><sub>Specialization · 3 courses</sub></p>
+<p>Statistics, probability and regression<br>with Python.</p>
+<a href="https://coursera.org/verify/specialization/IKCCTWC137DE"><b>View credential ↗</b></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<sub>03 / AI ENGINEERING</sub>
+<h3>IBM Generative<br>AI Engineering</h3>
+<p><b>IBM</b><br><sub>Professional Certificate · 16 courses</sub></p>
+<p>Python, machine learning, transformers<br>and retrieval-augmented generation.</p>
+<a href="https://coursera.org/verify/professional-cert/VKERXJWIECVW"><b>View credential ↗</b></a>
+</td>
+<td width="50%" valign="top">
+<sub>04 / ADDITIONAL MATHEMATICS</sub>
+<h3>Calculus<br>for Engineers</h3>
+<p><b>HKUST</b><br><sub>Course Certificate · 1 course</sub></p>
+<p>Further coursework in calculus<br>for engineering applications.</p>
+<a href="https://coursera.org/verify/G7D6P815T1TV"><b>View credential ↗</b></a>
+</td>
+</tr>
+</table>
 
 <details>
 <summary><b>Mathematics & statistics — 7 course certificates</b></summary>
@@ -147,5 +124,56 @@ All courses below form part of the **IBM Generative AI Engineering Professional 
 </details>
 
 <sub>Issued through Coursera to Nibei Yang. Programme credentials include the component courses listed above; they are not additional courses. Each link opens the official certificate verification page.</sub>
+
+
+## All projects
+
+### Customer & growth
+
+| Case study | Decision explored |
+| :--- | :--- |
+| **[01 · Retail Performance](https://github.com/yangnibei/retail-performance)** | Reconcile gross sales, negative adjustments and net sales across time and markets. |
+| **[02 · Customer Segmentation · RFM](https://github.com/yangnibei/customer-segmentation-rfm)** | Identify customer groups and examine how purchase value is concentrated. |
+| **[03 · Cohort Retention](https://github.com/yangnibei/cohort-retention)** | Compare repeat purchasing at equal cohort maturity, with eligible customer bases. |
+| **[09 · Wholesale Customer Segments](https://github.com/yangnibei/wholesale-customer-segments)** | Explore B2B spending profiles using clustering and indexed category comparisons. |
+
+### Marketing & experiments
+
+| Case study | Decision explored |
+| :--- | :--- |
+| **[04 · Campaign Targeting](https://github.com/yangnibei/campaign-targeting)** | Evaluate response ranking as the contact budget expands, using a last-block holdout. |
+| **[05 · Shopping Conversion](https://github.com/yangnibei/shopping-conversion)** | Investigate visitor and traffic conversion differences with confidence intervals. |
+| **[06 · A/B Testing Lab](https://github.com/yangnibei/ab-testing-lab)** | Interpret effect uncertainty and plan sample size. **Synthetic experiment.** |
+
+### Operations & decisions
+
+| Case study | Decision explored |
+| :--- | :--- |
+| **[07 · Demand Forecasting](https://github.com/yangnibei/demand-forecasting)** | Compare rolling next-day predictions and error patterns with a seasonal baseline. |
+| **[08 · Inventory Prioritisation](https://github.com/yangnibei/inventory-prioritisation)** | Connect ABC–XYZ planning groups with volume concentration and forecast errors. |
+| **[10 · Pricing Scenario Lab](https://github.com/yangnibei/pricing-scenario-lab)** | Explore profit sensitivity and grid-best prices. **Assumption-driven simulation.** |
+
+## Methods & evidence
+
+**Business question → analysis → visual evidence → decision boundaries**
+
+Every project includes a business brief, runnable Python code, two analytical panels, a results report, machine-readable metrics and source attribution.
+
+| Area | Demonstrated methods |
+| :--- | :--- |
+| Data preparation | Python, pandas, SQL aggregation, input checks and revenue reconciliation |
+| Customer & marketing analysis | RFM, cohort retention, logistic regression, precision and lift |
+| Statistical reasoning | Confidence intervals, randomisation checks and sample-size planning |
+| Operational decisions | Forecast baselines, chronological evaluation, ABC–XYZ and scenario analysis |
+
+<details>
+<summary><b>Reproducibility, data sources and scope</b></summary>
+
+- **8 public-data case studies:** historical UCI datasets with source attribution and archive hashes. Three retail studies use the same source for distinct questions.
+- **2 decision labs:** A/B testing uses simulated visitors; pricing uses assumed demand and costs. Neither represents measured commercial impact.
+- **Reproduce a result:** open a project, follow its README, then inspect `REPORT.md`, `results.json` and `analysis.py`.
+- **Scope:** educational portfolio projects developed with AI assistance. Findings are presented with their assumptions and limitations.
+
+</details>
 
 <sub>Yang Nibei · Business Analytics Portfolio</sub>
