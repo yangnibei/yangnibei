@@ -33,7 +33,7 @@ Four starting points across customer insight, marketing, operations and experime
 
 ## Certificates & learning
 
-<a href="https://github.com/yangnibei/yangnibei/blob/main/CERTIFICATES.md"><img src="https://raw.githubusercontent.com/yangnibei/yangnibei/main/certificate-scroll.svg" width="100%" alt="26 original certificates arranged side by side and scrolling automatically: 3 programme credentials and 23 course certificates." /></a>
+<a href="https://github.com/yangnibei/yangnibei/blob/main/CERTIFICATES.md"><img src="https://raw.githubusercontent.com/yangnibei/yangnibei/15dff5e6cdf80f9b1e2522d42aa467d77bbaf7a8/certificate-scroll.svg" width="100%" alt="26 original certificates arranged side by side and scrolling automatically: 3 programme credentials and 23 course certificates." /></a>
 
 [View all 26 certificates →](https://github.com/yangnibei/yangnibei/blob/main/CERTIFICATES.md)
 
