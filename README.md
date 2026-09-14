@@ -1,4 +1,4 @@
-![Yang Nibei — Business Analytics Portfolio](https://github.com/yangnibei/yangnibei/raw/2bf5cedfbc2895c708c0ab79e94da32dfa0b407e/banner.svg)
+![Yang Nibei — Business Analytics Portfolio](https://raw.githubusercontent.com/yangnibei/yangnibei/8b48698b19ec5a8c059e69825a7b894bc9564d62/banner.svg)
 
 I use data to explore how businesses understand customers, evaluate experiments and plan operations.
 
@@ -13,18 +13,18 @@ Four starting points across customer insight, marketing, operations and experime
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/yangnibei/customer-segmentation-rfm"><img src="showcase-customers.svg" width="100%" alt="Customer Segmentation: the top 20% of identified customers account for 74.7% of positive purchase value. Open the RFM case study."/></a>
+<a href="https://github.com/yangnibei/customer-segmentation-rfm"><img src="https://raw.githubusercontent.com/yangnibei/yangnibei/8b48698b19ec5a8c059e69825a7b894bc9564d62/showcase-customers.svg" width="100%" alt="Customer Segmentation: the top 20% of identified customers account for 74.7% of positive purchase value. Open the RFM case study."/></a>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/yangnibei/campaign-targeting"><img src="showcase-marketing.svg" width="100%" alt="Campaign Targeting: 1.92 times observed response lift at a 20% contact budget. Open the marketing case study."/></a>
+<a href="https://github.com/yangnibei/campaign-targeting"><img src="https://raw.githubusercontent.com/yangnibei/yangnibei/8b48698b19ec5a8c059e69825a7b894bc9564d62/showcase-marketing.svg" width="100%" alt="Campaign Targeting: 1.92 times observed response lift at a 20% contact budget. Open the marketing case study."/></a>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/yangnibei/demand-forecasting"><img src="showcase-forecasting.svg" width="100%" alt="Demand Forecasting: 4.3% lower mean absolute error than the seasonal baseline on a 120-day holdout. Open the forecasting case study."/></a>
+<a href="https://github.com/yangnibei/demand-forecasting"><img src="https://raw.githubusercontent.com/yangnibei/yangnibei/8b48698b19ec5a8c059e69825a7b894bc9564d62/showcase-forecasting.svg" width="100%" alt="Demand Forecasting: 4.3% lower mean absolute error than the seasonal baseline on a 120-day holdout. Open the forecasting case study."/></a>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/yangnibei/ab-testing-lab"><img src="showcase-experiments.svg" width="100%" alt="A/B Testing Lab: synthetic lift of 0.75 percentage points with a 95% confidence interval. Open the experiment-design lab."/></a>
+<a href="https://github.com/yangnibei/ab-testing-lab"><img src="https://raw.githubusercontent.com/yangnibei/yangnibei/8b48698b19ec5a8c059e69825a7b894bc9564d62/showcase-experiments.svg" width="100%" alt="A/B Testing Lab: synthetic lift of 0.75 percentage points with a 95% confidence interval. Open the experiment-design lab."/></a>
 </td>
 </tr>
 </table>
@@ -33,7 +33,7 @@ Four starting points across customer insight, marketing, operations and experime
 
 ## Certificates & learning
 
-<a href="https://github.com/yangnibei/yangnibei/blob/main/CERTIFICATES.md"><img src="https://raw.githubusercontent.com/yangnibei/yangnibei/15dff5e6cdf80f9b1e2522d42aa467d77bbaf7a8/certificate-scroll.svg" width="100%" alt="26 original certificates arranged side by side and scrolling automatically: 3 programme credentials and 23 course certificates." /></a>
+<a href="https://github.com/yangnibei/yangnibei/blob/main/CERTIFICATES.md"><img src="https://raw.githubusercontent.com/yangnibei/yangnibei/8b48698b19ec5a8c059e69825a7b894bc9564d62/certificate-scroll.svg" width="100%" alt="26 original certificates arranged side by side and scrolling automatically: 3 programme credentials and 23 course certificates." /></a>
 
 [View all 26 certificates →](https://github.com/yangnibei/yangnibei/blob/main/CERTIFICATES.md)
 
